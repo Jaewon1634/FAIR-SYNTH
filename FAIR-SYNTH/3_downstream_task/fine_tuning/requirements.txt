@@ -1,0 +1,45 @@
+# Core ML libraries
+torch>=2.1.0
+torchvision>=0.16.0
+torchaudio>=2.1.0
+transformers==4.51.0
+tokenizers>=0.15.0
+accelerate>=0.24.0
+peft>=0.7.0
+bitsandbytes>=0.41.0
+datasets>=2.14.0
+flash_attn==2.7.4.post1
+
+# Training utilities
+wandb>=0.16.0
+tensorboard>=2.15.0
+tqdm>=4.66.0
+numpy>=1.24.0
+pandas>=2.1.0
+scikit-learn>=1.3.0
+
+# Model-specific libraries
+sentencepiece>=0.1.99
+protobuf>=4.25.0
+safetensors>=0.4.0
+
+# System utilities
+psutil>=5.9.0
+GPUtil>=1.4.0
+py3nvml>=0.2.7
+
+# Configuration and logging
+omegaconf>=2.3.0
+hydra-core>=1.3.0
+loguru>=0.7.0
+rich>=13.7.0
+
+# Data processing
+jsonlines>=4.0.0
+pyarrow>=14.0.0
+
+# Political Compass Analysis
+matplotlib>=3.5.0
+seaborn>=0.11.0
+scipy>=1.8.0
+

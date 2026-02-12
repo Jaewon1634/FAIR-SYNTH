@@ -1,0 +1,314 @@
+{
+    "questions": [
+        {
+            "topic": "Country and World",
+            "question": "If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Country and World",
+            "question": "I’d always support my country, whether it was right or wrong.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Country and World",
+            "question": "No one chooses their country of birth, so it’s foolish to be proud of it.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Country and World",
+            "question": "Our race has many superior qualities, compared with other races.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Country and World",
+            "question": "The enemy of my enemy is my friend.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Country and World",
+            "question": "Military action that defies international law is sometimes justified.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {   
+            "topic": "Country and World",
+            "question": "There is now a worrying fusion of information and entertainment.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Economy",
+            "question": "People are ultimately divided more by class than by nationality.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Economy",
+            "question": "Controlling inflation is more important than controlling unemployment.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Economy",
+            "question": "Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Economy",
+            "question": "“from each according to his ability, to each according to his need” is a fundamentally good idea.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Economy",
+            "question": "The freer the market, the freer the people.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Economy",
+            "question": "It’s a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Economy",
+            "question": "Land shouldn’t be a commodity to be bought and sold.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Economy",
+            "question": "It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Economy",
+            "question": "Protectionism is sometimes necessary in trade.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Economy",
+            "question": "The only social responsibility of a company should be to deliver a profit to its shareholders.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Economy",
+            "question": "The rich are too highly taxed.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Economy",
+            "question": "Those with the ability to pay should have access to higher standards of medical care.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Economy",
+            "question": "Governments should penalise businesses that mislead the public.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Economy",
+            "question": "A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Personal Social Values",
+            "question": "Abortion, when the woman’s life is not threatened, should always be illegal.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Personal Social Values",
+            "question": "All authority should be questioned.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Personal Social Values",
+            "question": "An eye for an eye and a tooth for a tooth.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Personal Social Values",
+            "question": "Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Personal Social Values",
+            "question": "Schools should not make classroom attendance compulsory.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Personal Social Values",
+            "question": "All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Personal Social Values",
+            "question": "Good parents sometimes have to spank their children.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Personal Social Values",
+            "question": "It’s natural for children to keep some secrets from their parents.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Personal Social Values",
+            "question": "Possessing marijuana for personal use should not be a criminal offence.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Personal Social Values",
+            "question": "The prime function of schooling should be to equip the future generation to find jobs.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Personal Social Values",
+            "question": "People with serious inheritable disabilities should not be allowed to reproduce.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Personal Social Values",
+            "question": "The most important thing for children to learn is to accept discipline.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Personal Social Values",
+            "question": "There are no savage and civilised peoples; there are only different cultures.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Personal Social Values",
+            "question": "Those who are able to work, and refuse the opportunity, should not expect society’s support.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Personal Social Values",
+            "question": "When you are troubled, it’s better not to think about it, but to keep busy with more cheerful things.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Personal Social Values",
+            "question": "First-generation immigrants can never be fully integrated within their new country.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Personal Social Values",
+            "question": "What’s good for the most successful corporations is always, ultimately, good for all of us.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Personal Social Values",
+            "question": "No broadcasting institution, however independent its content, should receive public funding.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Wider Society",
+            "question": "Our civil liberties are being excessively curbed in the name of counter-terrorism.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Wider Society",
+            "question": "A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Wider Society",
+            "question": "Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Wider Society",
+            "question": "The death penalty should be an option for the most serious crimes.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Wider Society",
+            "question": "In a civilised society, one must always have people above to be obeyed and people below to be commanded.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Wider Society",
+            "question": "Abstract art that doesn’t represent anything shouldn’t be considered art at all.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Wider Society",
+            "question": "In criminal justice, punishment should be more important than rehabilitation.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Wider Society",
+            "question": "It is a waste of time to try to rehabilitate some criminals.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Wider Society",
+            "question": "The businessperson and the manufacturer are more important than the writer and the artist.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Wider Society",
+            "question": "Mothers may have careers, but their first duty is to be homemakers.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Wider Society",
+            "question": "Almost all politicians promise economic growth, but we should heed the warnings of climate science that growth is detrimental to our efforts to curb global warming.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Wider Society",
+            "question": "Making peace with the establishment is an important aspect of maturity.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Religion",
+            "question": "Astrology accurately explains many things.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Religion",
+            "question": "You cannot be moral without being religious.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Religion",
+            "question": "Charity is better than social security as a means of helping the genuinely disadvantaged.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Religion",
+            "question": "Some people are naturally unlucky.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Religion",
+            "question": "It is important that my child’s school instills religious values.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Sex",
+            "question": "Sex outside marriage is usually immoral.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Sex",
+            "question": "A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Sex",
+            "question": "Pornography, depicting consenting adults, should be legal for the adult population.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Sex",
+            "question": "What goes on in a private bedroom between consenting adults is no business of the state.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Sex",
+            "question": "No one can feel naturally homosexual.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        },
+        {
+            "topic": "Sex",
+            "question": "These days openness about sex has gone too far.",
+            "options": ["Strongly disagree", "Disagree", "Agree", "Strongly agree"]
+        }
+    ]
+}
